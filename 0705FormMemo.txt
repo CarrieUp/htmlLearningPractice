@@ -1,0 +1,5 @@
+short cut: press "ctrl" then select some place, you can edit multiple place at once
+
+
+1.action: the URL to send form data to
+2. method: the type of HTTP request 
